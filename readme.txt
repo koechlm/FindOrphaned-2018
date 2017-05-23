@@ -4,7 +4,7 @@ FIND ORPHANED FILES
 INTRODUCTION:
 ---------------------------------
 This utility detects files that are not referenced by another file.
-New 2018 - exclude Inventor IPN, IDW or DWG as these usually don't have parent references.
+New 2018 - Option to exclude Inventor IPN, IDW or DWG as these usually don't have parent references.
 
 REQUIREMENTS:
 ---------------------------------
