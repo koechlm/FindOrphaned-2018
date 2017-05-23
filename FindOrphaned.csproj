@@ -108,6 +108,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="FindOrphaned.zip" />
     <None Include="Resources\OnesAndZeros.png" />
   </ItemGroup>
   <ItemGroup>
